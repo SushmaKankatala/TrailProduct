@@ -7,9 +7,9 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
 WORKDIR /src
-COPY ["TrailProduct/TrailProduct.csproj", "TrailProduct/"]
+COPY ["TrailProduct.csproj", "TrailProduct/"]
 RUN dotnet restore "TrailProduct/TrailProduct.csproj"
-COPY . .
+COPY . TrailProduct/
 WORKDIR "/src/TrailProduct"
 RUN dotnet build "TrailProduct.csproj" -c Release -o /app/build
 

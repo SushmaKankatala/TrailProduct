@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lkB4sLAyfWB08T29eVdwkgjRYUca2WpaYP+I+Uwqt3zPyJ0ZHaV/1tZLx2BuR6V7OBmEPftv1Gae1+q7szaiDw==",
+  "dgSpecHash": "HeIQlSL8V51RfBpiBp2x9ds89iF0r3XSmJWX9XSjh8khZMP0NcBxkDq8nGugdaIEruKH7EL/bwXT4Excq4Q7/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\sushm_4qm2dck\\source\\repos\\TrailProduct\\TrailProduct\\TrailProduct.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sushm_4qm2dck\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+    "C:\\Users\\sushm_4qm2dck\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\sushm_4qm2dck\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"
   ],
   "logs": []
 }
